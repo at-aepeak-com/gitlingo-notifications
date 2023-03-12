@@ -1,0 +1,1 @@
+# gitlingo-notifications
